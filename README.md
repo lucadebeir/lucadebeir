@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [https://marinesrecipes.fr][marinesrecipesweb]
 - 🌱 I’m currently learning the clean architecture, but also many other things !
 - 📫 How to reach me: luca.debeir@gmail.com
 - 😄 Find me on [LinkedIn][linkedinurl]
