@@ -13,7 +13,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="React Native" width="26px" src="https://www.ubidreams.fr/wp-content/uploads/2020/06/logo-react-native.png" />
+<img align="left" alt="React Native" width="26px" src="![image](https://github.com/user-attachments/assets/d01831a0-846a-4696-afa0-6d2a7d0bad09)" />
 <img align="left" alt="Java" width="26px" src="https://www.bitoo.fr/wp-content/uploads/2021/01/java-logo.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -25,5 +25,4 @@
 
 
 
-[marinesrecipesweb]: https://marinesrecipes.fr
 [linkedinurl]: https://www.linkedin.com/in/luca-debeir/
