@@ -14,7 +14,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="React Native" width="26px" src="https://www.sparks-formation.com/wp-content/uploads/2021/01/react-native-logo.png" />
-<img align="left" alt="Java" width="26px" src="https://www.bitoo.fr/wp-content/uploads/2021/01/java-logo.jpg" />
+<img align="left" alt="Java" width="26px" src="[https://www.bitoo.fr/wp-content/uploads/2021/01/java-logo.jpg](https://icones8.fr/icon/13679/java)" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
